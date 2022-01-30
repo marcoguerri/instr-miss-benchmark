@@ -1,4 +1,4 @@
-# itlb-benchmark
+# instr-miss-benchmark
 Benchmark which tests instruction cache and iTLB behavior of x86_64 processor.
 
 The repository contains two benchmarks:
